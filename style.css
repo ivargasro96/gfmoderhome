@@ -34,36 +34,36 @@ h1, h2, .navbar-brand {
   font-family: 'Montenegrin Gothic One', serif;
 }
 
-/* Fondo general del acordeón */
+
 .accordion {
   background-color: #f0f0f0; /* gris claro */
   border-radius: 8px;
   padding: 10px;
 }
 
-/* Cada item */
-.accordion-item {
+
+.ivr-accordion-item {
   background-color: #d9d9d9; /* gris medio */
   border: 1px solid #bfbfbf;
   margin-bottom: 8px;
   border-radius: 6px;
 }
 
-/* Botones */
-.accordion-button {
+
+.ivr-accordion-button {
   background-color: #d9d9d9; /* gris medio */
   color: #333;
   font-weight: bold;
 }
 
-/* Botón activo */
+
 .accordion-button:not(.collapsed) {
   background-color: #a6a6a6; /* gris más oscuro */
   color: #fff;
 }
 
-/* Cuerpo */
-.accordion-body {
+
+.ivr-accordion-body {
   background-color: #f5f5f5; /* gris muy claro */
   color: #333;
   border-top: 1px solid #bfbfbf;
